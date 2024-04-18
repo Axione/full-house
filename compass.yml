@@ -1,0 +1,17 @@
+name: full-house
+id: ari:cloud:compass:13ccdfa1-fb5d-41a4-9fd5-2c23ef1d97ea:component/dd5a9e2b-9095-4ab0-adb9-13a57e0ef868/a1745818-c700-4409-bebe-3b2149366010
+description: A simple web based Planning Poker implementation.
+configVersion: 1
+typeId: APPLICATION
+ownerId: ari:cloud:identity::team/ef195d7f-57d8-4a3c-bb2c-6bbca4c8c9b4-4
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/Axione/full-house
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
